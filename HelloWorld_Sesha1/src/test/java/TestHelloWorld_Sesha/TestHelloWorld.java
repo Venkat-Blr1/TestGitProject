@@ -8,7 +8,7 @@ public class TestHelloWorld {
 
 	public void TestHelloWorld(){
 		
-		System.out.println(" !... Hello World..Welcomee Sesha Gangarapu ..! ") ;			
+		System.out.println(" !... Hello World..Wel Sesha Gangarapu ..! ") ;			
 		
 	}
 	
