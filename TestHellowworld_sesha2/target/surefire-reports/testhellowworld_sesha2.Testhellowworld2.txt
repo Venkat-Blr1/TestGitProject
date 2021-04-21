@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: testhellowworld_sesha2.Testhellowworld2
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.545 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.422 sec
