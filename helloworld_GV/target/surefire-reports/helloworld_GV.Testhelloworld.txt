@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: sample.Testsample
+Test set: helloworld_GV.Testhelloworld
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.574 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.351 sec
